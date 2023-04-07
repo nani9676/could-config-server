@@ -1,0 +1,5 @@
+microservice:
+ order-service:
+  endpoints:
+   endpoint:
+    uri: http://PAYMENT-SERVICE/payment/AllPayments
